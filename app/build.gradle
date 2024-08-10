@@ -63,4 +63,5 @@ dependencies {
 
     //Landscapist - Glide
     implementation "com.github.skydoves:landscapist-glide:2.3.6"
+    implementation "com.github.skydoves:landscapist-placeholder:2.3.6"
 }
