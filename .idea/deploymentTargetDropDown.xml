@@ -2,6 +2,25 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
+      <entry key="InstrumentPledgesPreview">
+        <State />
+      </entry>
+      <entry key="MainScreenPreview">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="SERIAL_NUMBER" />
+                  <value value="adb-5c958a710721-mKBQvd._adb-tls-connect._tcp" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-08-11T17:01:36.304800700Z" />
+        </State>
+      </entry>
       <entry key="UserPledge - UserPledge">
         <State>
           <runningDeviceTargetSelectedWithDropDown>
@@ -17,6 +36,12 @@
           </runningDeviceTargetSelectedWithDropDown>
           <timeTargetWasSelectedWithDropDown value="2024-08-10T22:15:27.576110500Z" />
         </State>
+      </entry>
+      <entry key="UserPledgePreview">
+        <State />
+      </entry>
+      <entry key="UserPledgePreview - UserPledge">
+        <State />
       </entry>
       <entry key="app">
         <State />
